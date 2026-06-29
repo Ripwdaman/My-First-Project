@@ -1,2 +1,3 @@
 # My-First-Project
-First project
+First project.
+Author - Ritik
