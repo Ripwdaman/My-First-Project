@@ -1,4 +1,4 @@
 # My-First-Project
 First project.
 <br>
-Author - Ritik
+Author - Ritik Khurana
